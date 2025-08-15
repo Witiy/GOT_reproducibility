@@ -5,16 +5,17 @@ This repository provides the analysis workflows and processed datasets used to r
 
 ---
 
-## 📦 Download Processed Data
+## 📦 Download 
 
-Processed data files (~8.9 GB) can be downloaded from:
+Processed data files (~10 GB) can be downloaded from:
 
-🔗 [Google Drive (shared link)](https://drive.google.com/file/d/XXXXXXXXXXXX/view?usp=sharing)
+https://figshare.com/ndownloader/files/57200747
 
-Or via command line:
+Processed results files (~2 GB) can be downloaded from:
 
-```bash
-pip install gdown
-gdown --id XXXXXXXXXXXX
+https://figshare.com/ndownloader/files/57200744
+
+
+
 
 
